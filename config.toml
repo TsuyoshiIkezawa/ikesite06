@@ -2,13 +2,13 @@ DefaultContentLanguage = "jp"
 
 [languages]
   [languages.jp]
-    baseURL = "https://wwww.ikezawa.com/jp"
+    baseURL = "https://www.ikezawa.com/jp"
     languageCode = "jp"
     title = "ikezawa.com"
     weight = 1
 
   [languages.en]
-    baseURL = "https://wwww.ikezawa.com/en"
+    baseURL = "https://www.ikezawa.com/en"
     languageCode = "en"
     title = "ikezawa.com"
     weight = 2
