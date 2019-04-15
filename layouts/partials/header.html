@@ -1,13 +1,12 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <title>newtheme</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<header>
-  <h1>newtheme</h1>
-</header>
- 
-<main>
+<div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="{{ .Site.BaseURL }}"><h5 class="footer-title">{{.Site.Title}}</h5></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="{{ .Site.BaseURL }}"><img alt="Figurit Homepage" src="{{ .Site.BaseURL }}images/logo-mobile.svg" /></a>
+    </div>
+    {{ partial "main-menu.html" . }}
+    {{ partial "hamburger.html" . }}
+  </div>
+</div>

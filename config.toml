@@ -1,3 +1,36 @@
-baseURL = "http://example.org/"
-languageCode = "ja"
-title = "My New Hugo Site"
+DefaultContentLanguage = "jp"
+
+[languages]
+  [languages.jp]
+    baseURL = "https://wwww.ikezawa.com/"
+    languageCode = "jp"
+    title = "ikezawa.com"
+    weight = 1
+
+  [languages.en]
+    baseURL = "https://wwww.ikezawa.com/en"
+    languageCode = "en"
+    title = "ikezawa.com"
+    weight = 2
+
+
+[[menu.main]]
+	name = "Office-IT"
+	url = "/it_general/"
+    weight = 1
+
+[[menu.main]]
+    name = "IT-Infra"
+    url = "/it_infra/"
+    weight = 2
+
+[[menu.main]]
+    name = "Data Center"
+    url = "/datacenter/"
+    weight = 3
+
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
