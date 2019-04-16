@@ -2,7 +2,7 @@ DefaultContentLanguage = "jp"
 
 [languages]
   [languages.jp]
-    baseURL = "https://www.ikezawa.com/jp/"
+    baseURL = "https://www.ikezawa.com/"
     languageCode = "jp"
     title = "ikezawa.com"
     weight = 1
