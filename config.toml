@@ -1,8 +1,8 @@
-DefaultContentLanguage = "jp"
+DefaultContentLanguage = "ja"
 
 [languages]
-  [languages.jp]
-    baseURL = "https://www.ikezawa.com/jp/"
+  [languages.ja]
+    baseURL = "https://www.ikezawa.com/ja/"
     languageCode = "jp"
     title = "ikezawa.com"
     weight = 1
@@ -16,7 +16,7 @@ DefaultContentLanguage = "jp"
 
 [[menu.main]]
 	name = "Office-IT"
-	url = "/it_general/"
+	url = "/office_it/"
     weight = 1
 
 [[menu.main]]

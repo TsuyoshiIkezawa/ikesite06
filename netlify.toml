@@ -1,0 +1,22 @@
+# Redirects and headers are GLOBAL for all builds – they do not get scoped to 
+# contexts no matter where you define them in the file.
+# For context-specific rules, use _headers or _redirects files, which are 
+# PER-DEPLOY.
+
+[[redirects]]
+  from = "/*"
+  to = "/jp/index.html"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/en/*"
+  to = "/en/404/index.html"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "/ja/*"
+  to = "/ja/404/index.html"
+  status = 200
+  force = false
