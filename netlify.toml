@@ -5,7 +5,7 @@
 
 [[redirects]]
   from = "/*"
-  to = "/jp/index.html"
+  to = "/ja/index.html"
   status = 301
   force = false
 
