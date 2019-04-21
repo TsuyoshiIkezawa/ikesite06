@@ -7,6 +7,6 @@ draft: false
 
 # Excelでのガントチャートフォーマット
 
-![サンプルイメージ](../Excel_Gantt_01.png)
+![サンプルイメージ](../img/Excel_Gantt_01.png)
 
 [Excel Gantt](../../Files/TaskAndGanttt_20190327.xlsx "Excel Gantt")
