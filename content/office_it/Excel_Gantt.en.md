@@ -11,6 +11,6 @@ Gantt chart template.
 Item and Gantt chart is separated.
 When input Item, Gantt chart will arrive automaticaly.
 
-![Sample Image](../img/Excel_Gantt_01.png)
+![Sample Image](../../images/contents/Excel_Gantt_01.png)
 
 [Excel Gantt](../../Files/TaskAndGanttt_20190327.xlsx "Excel Gantt")
