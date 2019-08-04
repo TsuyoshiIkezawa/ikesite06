@@ -10,6 +10,6 @@ draft: false
 
 項目とガントチャートは個別に管理できるように分離しています。
 
-![サンプルイメージ](../img/Excel_Gantt_01.png)
+![サンプルイメージ](../../images/contents/Excel_Gantt_01.png)
 
 [Excel Gantt](../../Files/TaskAndGanttt_20190327.xlsx "Excel Gantt")
