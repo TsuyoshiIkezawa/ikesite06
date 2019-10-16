@@ -3,5 +3,4 @@ node_modules
 .idea
 public
 work
-/git_commit.bat
-/git_pull.bat
+/git_all.bat
