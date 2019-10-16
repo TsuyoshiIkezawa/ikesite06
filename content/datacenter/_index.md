@@ -34,8 +34,6 @@ $$
 
 $$
 \lim_{x \to \infty} f(x) \\
-\lim_{h \to 0} \frac{f(x+h)-f(x)}{h} \\
-\lim_{\substack{x \to \infty \ y \to \infty}} f(x,y)
 $$
 
 
